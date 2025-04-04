@@ -5,7 +5,7 @@ body{
    font-family: "Roboto", sans-serif;
 }
 address
-{ 
+{
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
@@ -18,9 +18,9 @@ address ul li >a:focus
 {
    color: #404bbf ;
 }
-.logo
+.logo > a
    {
-  
+
       font-weight: 700;
       font-size: 18px;
       line-height:1.17;
