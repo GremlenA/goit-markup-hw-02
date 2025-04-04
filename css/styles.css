@@ -18,6 +18,15 @@ address ul li >a:focus
 {
    color: #404bbf ;
 }
+span{
+   font-weight: 700;
+   font-size: 18px;
+   line-height:1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   font-family: "Raleway", sans-serif;
+}
 .logo  a
    {
 
@@ -29,6 +38,9 @@ address ul li >a:focus
       color: #4d5ae5;
       font-family: "Raleway", sans-serif;
       
+   }
+   span{
+      color: #2e2f42;
    }
 
 button{
