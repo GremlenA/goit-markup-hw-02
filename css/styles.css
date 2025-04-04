@@ -18,7 +18,7 @@ address ul li >a:focus
 {
    color: #404bbf ;
 }
-.logo > a
+.logo  a
    {
 
       font-weight: 700;
@@ -30,10 +30,7 @@ address ul li >a:focus
       font-family: "Raleway", sans-serif;
       
    }
-span
-{
-   color: #2e2f42;
-}
+
 button{
 
    cursor: pointer;
