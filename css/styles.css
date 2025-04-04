@@ -55,18 +55,18 @@ title{
    line-height: 60px;
 }
 h1{
-   font-weight: bold;
+   font-weight: 500;
    font-size: 56px;
    letter-spacing: 2%;
    line-height: 60px;
 }
 h2{
-   font-weight: bold;
+   font-weight: 500;
    font-size: 36px;
    letter-spacing: 2%;
 }
 h3{
-   font-weight: regular;
+   font-weight: 500;
    font-size: 16px;
    letter-spacing: 2%;
    line-height: 24px;
@@ -77,4 +77,8 @@ link{
    letter-spacing: 4%;
    line-height: 16px;
    text-decoration: underline;
+}
+p{
+   line-height: 1.5;
+   letter-spacing: 0.02em;
 }
