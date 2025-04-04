@@ -11,6 +11,16 @@ address ul li >a:focus
 {
    color: #4A54E1;
 }
+.logo
+   {
+      font-weight: 700;
+      font: size 18px;
+      font-height:1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #4d5ae5;
+   }
+  
 button{
 
    cursor: pointer;
