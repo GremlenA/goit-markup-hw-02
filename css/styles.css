@@ -17,11 +17,16 @@ body
       font-family: "Raleway", sans-serif;
       
    }
+.logo>span
+{
+   color: #4d5ae5;
+}
 address
 {
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
+   font-style: normal;
 
 }
 address ul li >a:hover{
@@ -91,7 +96,7 @@ link
 {
    font-weight: regular;
    font-size: 12px;
-   letter-spacing: 4%;
+   letter-spacing:4%;
    line-height: 16px;
    text-decoration: underline;
 }
@@ -99,15 +104,15 @@ link
 {
    color:  #f4f4fd;
    text-transform: uppercase;
-   letter-spacing: 0.03em;
-   line-height: 1.17 ;
-   font-size: 18px ;
-   font-weight: 700;
-   font-family: "Raleway", sans-serif;
+   letter-spacing:0.03em;
+   line-height:1.17 ;
+   font-size:18px ;
+   font-weight:700;
+   font-family: "Raleway",sans-serif;
 }
 footer
 {
-   background-color: #2e2f42 ;
+   background-color:#2e2f42 ;
 }
 footer> p
 {
