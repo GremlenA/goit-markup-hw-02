@@ -1,9 +1,22 @@
-body{
+body
+{
    color: #434455;
 
    background-color: #FFFFFF ;
    font-family: "Roboto", sans-serif;
 }
+.logo  a
+   {
+
+      font-weight: 700;
+      font-size: 18px;
+      line-height:1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #4d5ae5;
+      font-family: "Raleway", sans-serif;
+      
+   }
 address
 {
    line-height: 1.5;
@@ -27,29 +40,7 @@ span{
    color: #4d5ae5;
    font-family: "Raleway", sans-serif;
 }
-.logo  a
-   {
 
-      font-weight: 700;
-      font-size: 18px;
-      line-height:1.17;
-      letter-spacing: 0.03em;
-      text-transform: uppercase;
-      color: #4d5ae5;
-      font-family: "Raleway", sans-serif;
-      
-   }
-.futerlogo span
-
-{
-   color:  #f4f4fd;
-   text-transform: uppercase;
-   letter-spacing: 0.03em;
-   line-height: 1.17 ;
-   font-size: 18px ;
-   font-weight: 700;
-   font-family: "Raleway", sans-serif;
-}
    
 button{
 
@@ -61,11 +52,13 @@ button{
    text-decoration: underline;
 
 }
-button:hover{
+button:hover
+{
    color: #4A54E1;
 
 }
-button:focus{
+button:focus
+{
    background-color: #4A54E1;
 }
 title{
@@ -74,31 +67,49 @@ title{
    letter-spacing: 2%;
    line-height: 60px;
 }
-h1{
+h1
+{
    font-weight: 500;
    font-size: 56px;
    letter-spacing: 2%;
    line-height: 60px;
 }
-h2{
+h2
+{
    font-weight: 500;
    font-size: 36px;
    letter-spacing: 2%;
 }
-h3{
+h3
+{
    font-weight: 500;
    font-size: 16px;
    letter-spacing: 2%;
    line-height: 24px;
 }
-link{
+link
+{
    font-weight: regular;
    font-size: 12px;
    letter-spacing: 4%;
    line-height: 16px;
    text-decoration: underline;
 }
+.futerlogo span
+{
+   color:  #f4f4fd;
+   text-transform: uppercase;
+   letter-spacing: 0.03em;
+   line-height: 1.17 ;
+   font-size: 18px ;
+   font-weight: 700;
+   font-family: "Raleway", sans-serif;
+}
 footer
 {
    background-color: #2e2f42 ;
+}
+footer> p
+{
+color: #f4f4fd;
 }
