@@ -39,10 +39,18 @@ span{
       font-family: "Raleway", sans-serif;
       
    }
-   span{
-      color: #2e2f42;
-   }
+.futerlogo span
 
+{
+   color:  #f4f4fd;
+   text-transform: uppercase;
+   letter-spacing: 0.03em;
+   line-height: 1.17 ;
+   font-size: 18px ;
+   font-weight: 700;
+   font-family: "Raleway", sans-serif;
+}
+   
 button{
 
    cursor: pointer;
@@ -90,7 +98,7 @@ link{
    line-height: 16px;
    text-decoration: underline;
 }
-p{
-   line-height: 1.5;
-   letter-spacing: 0.02em;
+footer
+{
+   background-color: #2e2f42 ;
 }
