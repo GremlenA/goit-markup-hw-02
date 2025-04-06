@@ -117,7 +117,7 @@ link
    letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.futer-logo 
+.futer-logo
 {
    font-family: "Raleway", sans-serif;
    font-weight: 700;
@@ -127,12 +127,6 @@ link
    text-transform: uppercase;
    color: #4d5ae5;
    text-decoration: none;
-}
-.feature-texts
-{
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
 }
 
 .futer-logo span
@@ -158,8 +152,7 @@ line-height: 1.5;
    letter-spacing: 0.02em;
    color: #2e2f42;
 }
-
-.feature-texts
+.feature-text
 {
    font-size: 16px;
    line-height: 1.5;
