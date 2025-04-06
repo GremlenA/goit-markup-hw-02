@@ -36,7 +36,8 @@ address ul li >a:focus
 {
    color: #404bbf ;
 }
-span{
+.logo-text
+{
    font-weight: 700;
    font-size: 18px;
    line-height:1.17;
@@ -47,7 +48,8 @@ span{
 }
 
    
-button{
+button
+{
 
    cursor: pointer;
    font-size: 16px;
@@ -66,7 +68,8 @@ button:focus
 {
    background-color: #4A54E1;
 }
-title{
+title
+{
    font-weight: bold;
    font-size: 56px;
    letter-spacing: 2%;
@@ -114,7 +117,8 @@ link
    letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.futer-logo {
+.futer-logo 
+{
    font-family: "Raleway", sans-serif;
    font-weight: 700;
    font-size: 18px;
@@ -123,16 +127,17 @@ link
    text-transform: uppercase;
    color: #4d5ae5;
    text-decoration: none;
- }
- 
- .futer-logo span {
+}
+
+.futer-logo span 
+{
    color: #f4f4fd;
- }
- footer{
+}
+footer{
    background-color: #2e2f42;
- 
- }
-footer> p
+
+}
+.futer-text
 {
 color: #f4f4fd;
 letter-spacing: 0.02em;
@@ -140,16 +145,18 @@ line-height: 1.5;
 }
 
 .feature-title {
+
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: #2e2f42;
- }
- 
-.feature-text {
+}
+
+.feature-texts
+{
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
- }
+}
