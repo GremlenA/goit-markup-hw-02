@@ -4,7 +4,7 @@ body {
    font-family: "Roboto", sans-serif;
 }
 
-logo-header a {
+.logo-header {
    font-weight: 700;
    font-size: 18px;
    line-height: 1.17;
@@ -14,11 +14,9 @@ logo-header a {
    font-family: "Raleway", sans-serif;
 }
 
-
 .logo-header > span {
    color: #2e2f42;
 }
-
 
 .logo-text {
    font-weight: 700;
