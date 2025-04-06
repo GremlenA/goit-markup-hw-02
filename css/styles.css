@@ -187,3 +187,11 @@ footer {
 {
    color: #f4f4fd;
 }
+.sektion-for
+{
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   text-transform: capitalize;
+   letter-spacing:0.02em;
+}
