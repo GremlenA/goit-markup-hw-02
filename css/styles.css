@@ -202,3 +202,19 @@ footer {
    color: #434455;
    font-size: 16px;
 }
+.our-team
+{
+   background-color: #F4F4FD;
+}
+.team-card
+{
+   background-color: #ffffff;
+}
+.member-name
+{
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
