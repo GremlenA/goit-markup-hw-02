@@ -1,124 +1,97 @@
-body
-{
+body {
    color: #434455;
-
-   background-color: #FFFFFF ;
+   background-color: #ffffff;
    font-family: "Roboto", sans-serif;
 }
-.logo-header  a
-   {
 
-      font-weight: 700;
-      font-size: 18px;
-      line-height:1.17;
-      letter-spacing: 0.03em;
-      text-transform: uppercase;
-      color: #4d5ae5;
-      font-family: "Raleway", sans-serif;
-      
-   }
-.logo-header>span
-{
+.logo-header a {
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   font-family: "Raleway", sans-serif;
+}
+
+.logo-header > span {
    color: #4d5ae5;
 }
-address
-{
+
+address {
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
    font-style: normal;
+}
 
+address ul li > a:hover,
+address ul li > a:focus {
+   color: #404bbf;
 }
-address ul li >a:hover{
-   color: #404bbf ;
-}
-address ul li >a:focus
-{
-   color: #404bbf ;
-}
-.logo-text
-{
+
+.logo-text {
    font-weight: 700;
    font-size: 18px;
-   line-height:1.5;
+   line-height: 1.5;
    letter-spacing: 0.02em;
    text-transform: uppercase;
    color: #4d5ae5;
    font-family: "Raleway", sans-serif;
 }
 
-   
-button
-{
-
+button {
    cursor: pointer;
    font-size: 16px;
    line-height: 16px;
-   font-weight: regular;
+   font-weight: 400;
    letter-spacing: 4%;
    text-decoration: underline;
+}
 
+button:hover {
+   color: #4a54e1;
 }
-button:hover
-{
-   color: #4A54E1;
 
+button:focus {
+   background-color: #4a54e1;
 }
-button:focus
-{
-   background-color: #4A54E1;
-}
-title
-{
-   font-weight: bold;
-   font-size: 56px;
-   letter-spacing: 2%;
-   line-height: 60px;
-}
-h1
-{
+
+h1 {
    font-weight: 500;
    font-size: 56px;
    letter-spacing: 2%;
    line-height: 60px;
 }
-h2
-{
+
+h2 {
    font-weight: 500;
    font-size: 20px;
    letter-spacing: 0.02em;
    line-height: 1.2;
-   color: #2e2f42 ;
+   color: #2e2f42;
 }
-h2 p
-{
+
+h2 p {
    line-height: 1.5;
    letter-spacing: 0.02em;
 }
-h3
-{
+
+h3 {
    font-weight: 500;
    font-size: 16px;
    letter-spacing: 2%;
    line-height: 24px;
 }
-link
-{
-   font-weight: regular;
-   font-size: 12px;
-   letter-spacing:4%;
-   line-height: 16px;
-   text-decoration: underline;
-}
-.facture ul
-{
+
+.facture ul {
    font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.futer-logo
-{
+
+.futer-logo {
    font-family: "Raleway", sans-serif;
    font-weight: 700;
    font-size: 18px;
@@ -129,33 +102,38 @@ link
    text-decoration: none;
 }
 
-.futer-logo span
-{
+.futer-logo span {
    color: #f4f4fd;
 }
-footer{
-   background-color: #2e2f42;
 
+footer {
+   background-color: #2e2f42;
 }
-.futer-text
-{
-color: #f4f4fd;
-letter-spacing: 0.02em;
-line-height: 1.5;
+
+.futer-text {
+   color: #f4f4fd;
+   letter-spacing: 0.02em;
+   line-height: 1.5;
 }
 
 .feature-title {
-
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
    letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.feature-text
-{
+
+.feature-text {
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
+}
+
+.section-title {
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   color: #2e2f42;
 }
