@@ -128,8 +128,14 @@ link
    color: #4d5ae5;
    text-decoration: none;
 }
+.feature-texts
+{
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+}
 
-.futer-logo span 
+.futer-logo span
 {
    color: #f4f4fd;
 }
