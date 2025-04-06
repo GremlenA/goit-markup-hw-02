@@ -15,8 +15,7 @@ body {
 }
 
 .logo-header > span {
-   color: #2e2f42 ;
-   
+   color: #2e2f42;
 }
 
 address {
@@ -24,6 +23,11 @@ address {
    letter-spacing: 0.02em;
    color: #434455;
    font-style: normal;
+}
+
+address ul li > a {
+   color: #434455; 
+   text-decoration: none;
 }
 
 address ul li > a:hover,
