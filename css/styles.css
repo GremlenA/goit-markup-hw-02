@@ -4,7 +4,7 @@ body {
    font-family: "Roboto", sans-serif;
 }
 
-.logo-header a {
+logo-header a {
    font-weight: 700;
    font-size: 18px;
    line-height: 1.17;
@@ -14,8 +14,20 @@ body {
    font-family: "Raleway", sans-serif;
 }
 
+
 .logo-header > span {
    color: #2e2f42;
+}
+
+
+.logo-text {
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   font-family: "Raleway", sans-serif;
 }
 
 address {
@@ -33,16 +45,6 @@ address ul li > a {
 address ul li > a:hover,
 address ul li > a:focus {
    color: #404bbf;
-}
-
-.logo-text {
-   font-weight: 700;
-   font-size: 18px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   text-transform: uppercase;
-   color: #4d5ae5;
-   font-family: "Raleway", sans-serif;
 }
 
 button {
