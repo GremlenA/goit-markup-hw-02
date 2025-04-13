@@ -73,7 +73,15 @@ button:focus {
    background-color: #404BBF;
 }
 
-
+.menu
+{
+   list-style: none;
+   
+}
+.munu >a
+{
+   text-decoration: none
+}
 
 h1 {
    font-size: 56px;
