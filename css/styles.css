@@ -57,7 +57,7 @@ address ul li > a:focus {
    color: #404bbf;
 }
 
-button {
+.knopka{
    background-color: #4D5AE5;
    font-family: "Roboto", sans-serif;
    font-weight: 500;
@@ -68,8 +68,8 @@ button {
    cursor: pointer;
 }
 
-button:hover,
-button:focus {
+.knopka:hover,
+.knopka:focus {
    background-color: #404BBF;
 }
 
